@@ -1,5 +1,5 @@
 # Integer_divsibility
-This page contains two files, int_div_mod2 and int_div_mod3, which are the code for the paper "Classification of integers based on residue classes by deep learning".
+This page contains two files, int_div_mod2 and int_div_mod3, which are the code for the [paper](https://arxiv.org/abs/2304.01333) "Classification of integers based on residue classes by deep learning".
 ## int_div_mod2
 This python script contains all the testings of deep neual networks on mod 2 problem, including all the feature engineering listed in Table (1)(a) with the same order.
 ## int_div_mod3
