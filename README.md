@@ -10,6 +10,6 @@ Furthermore, the paper incorporates a comprehensive exploration of the Fourier s
 This python script contains all the testings of deep neual networks on mod 2 problem, including all the feature engineering listed in Table (1)(a) with the same order.
 ## Int_div_mod3
 This python script contains all the testings of deep neural networks on mod 3 problem, including all the feature engineering listed in Table (1)(b) with the same order.
-## Fourier series regression
+## Fourier_series_regression
 This python script contains the implementation of Fourier series regression on mod 3 and mod 7 problems describled in Section 4.4. 
 
